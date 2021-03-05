@@ -1,0 +1,12 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Спр. Справочник1"
+    id="id-c47aae13a85a4dda9a54b26920b29e66"
+    documentation="Описание справочника">
+  <properties
+      key="Свойство 1"
+      value="Значение свойства 1"/>
+  <properties
+      key="Свойство 2"
+      value="Значение свойства 2"/>
+</archimate:DataObject>
