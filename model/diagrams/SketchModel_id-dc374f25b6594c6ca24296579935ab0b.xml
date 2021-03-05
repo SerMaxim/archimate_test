@@ -1,4 +1,42 @@
 <archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="New Sketch"
-    id="id-dc374f25b6594c6ca24296579935ab0b"/>
+    id="id-dc374f25b6594c6ca24296579935ab0b">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6baf18e14fbe4e1e90e48ffedf2c933d"
+      name="выаыа"
+      textAlignment="1">
+    <bounds
+        x="453"
+        y="129"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:SketchModelActor"
+        id="id-dc1ad2b52b0c4c6aa5089d6b9ea6803f"
+        name="выаыв а">
+      <sourceConnections
+          id="id-88bce3b6380e46b4a582782fb6b1f065"
+          source="id-dc1ad2b52b0c4c6aa5089d6b9ea6803f"
+          target="id-2a768c4d567b4174b8327ef8123ec9a5"/>
+      <bounds
+          x="36"
+          y="24"
+          width="75"
+          height="100"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelActor"
+        id="id-2a768c4d567b4174b8327ef8123ec9a5"
+        name="Actor"
+        targetConnections="id-88bce3b6380e46b4a582782fb6b1f065">
+      <bounds
+          x="300"
+          y="24"
+          width="75"
+          height="100"/>
+    </children>
+  </children>
+</archimate:SketchModel>

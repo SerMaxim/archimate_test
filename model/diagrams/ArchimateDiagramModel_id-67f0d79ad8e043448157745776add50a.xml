@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="d asd as"
-    id="id-67f0d79ad8e043448157745776add50a">
+    id="id-67f0d79ad8e043448157745776add50a"
+    connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-287bded3ce5e4476834019cf2e6ffeab">
@@ -28,8 +29,8 @@
           href="AssociationRelationship_id-269bad288ee846fc9e2c8740667f3e89.xml#id-269bad288ee846fc9e2c8740667f3e89"/>
     </sourceConnections>
     <bounds
-        x="348"
-        y="336"
+        x="324"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
