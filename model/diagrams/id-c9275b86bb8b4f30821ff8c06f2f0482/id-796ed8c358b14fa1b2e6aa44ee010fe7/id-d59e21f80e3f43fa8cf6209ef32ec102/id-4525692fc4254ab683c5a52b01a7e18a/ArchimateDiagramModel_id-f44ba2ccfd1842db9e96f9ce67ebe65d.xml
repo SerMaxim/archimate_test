@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="25698 Задача о задаче"
-    id="id-f44ba2ccfd1842db9e96f9ce67ebe65d">
+    id="id-f44ba2ccfd1842db9e96f9ce67ebe65d"
+    documentation="тут описание по задаче, формулировки и т.п.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cd6d6dc37bc0404696e3d3f6616630ea">
